@@ -12,3 +12,16 @@ body {
     background-color: #BCF4DE;
     color: #FFB7C3;
 }
+
+#container {
+    width: 70%;
+    padding: 1em;
+    text-align: left;
+    border: 1px solid #000000;
+    margin: 0 auto;
+}
+
+#container h1 {
+    font-size: 20px;
+
+}
