@@ -4,6 +4,7 @@
     color: #DED6D1;
     color: #EEC6CA;
     color: #FFB7C3;
+    color: #888FFF;
 }
 
 body {
@@ -15,8 +16,7 @@ body {
 
 #container {
     width: 70%;
-    padding: 1em;
-    text-align: left;
+    padding-bottom: 1em;
     border: 1px solid #000000;
     margin: 0 auto;
 }
@@ -24,4 +24,39 @@ body {
 #container h1 {
     font-size: 20px;
 
+}
+
+#header {
+    background: #888FFF;
+    box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.5);
+    text-align: left;
+    font-weight: bold;
+    color: #FFFFFF;
+    margin: 0em;
+    padding: 0.5em;
+
+}
+
+#header #tagline {
+    margin: 0 0 0 1em;
+    font-weight: normal;
+    font-size: 0.8em;
+}
+
+body #post {
+    text-align: left;
+    padding-top: 10px;
+    padding-left: 16px;
+    padding-right: 16px;
+    padding-bottom: 6px;
+}
+
+#container h3 {
+    margin: 0px;
+}
+
+#sign {
+    font-family: cursive, Verdana, Tahoma, sans-serif;
+
+    font-weight: bold;
 }
