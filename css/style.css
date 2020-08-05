@@ -1,0 +1,14 @@
+.palette {
+    color: #BCF4DE;
+    color: #CDE5D7;
+    color: #DED6D1;
+    color: #EEC6CA;
+    color: #FFB7C3;
+}
+
+body {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #BCF4DE;
+    color: #FFB7C3;
+}
