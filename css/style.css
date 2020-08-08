@@ -87,10 +87,12 @@ body #post {
 }
 
 #footer {
-    background-color: #777;
+    background-color: #000;
+    background: url("../img/F9.jpg") center;
+    background-repeat: no-repeat;
     color: #FFFFFF;
     text-align: center;
     padding: 0.5em;
-    border-radius: 7%;
     box-shadow: inset 0 0 15px 0 #000000;
+    height: 250px;
 }
