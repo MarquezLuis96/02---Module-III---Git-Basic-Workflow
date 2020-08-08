@@ -85,3 +85,12 @@ body #post {
 
     font-weight: bold;
 }
+
+#footer {
+    background-color: #777;
+    color: #FFFFFF;
+    text-align: center;
+    padding: 0.5em;
+    border-radius: 7%;
+    box-shadow: inset 0 0 15px 0 #000000;
+}
