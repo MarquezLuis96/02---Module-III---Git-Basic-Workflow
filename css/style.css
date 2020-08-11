@@ -69,7 +69,6 @@ body {
 }
 
 body #post {
-    text-align: left;
     padding-top: 10px;
     padding-left: 16px;
     padding-right: 16px;
@@ -103,4 +102,16 @@ body #post {
     position: relative;
     border: 1px solid #000000;
     box-shadow: inset 0 0 15px 0 #000000;
+}
+
+#p_txt_content {
+    text-align: left;
+}
+
+#p_img_content {
+    align-items: center;
+}
+
+#p_author {
+    text-align: right;
 }
