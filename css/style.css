@@ -86,7 +86,7 @@ body #post {
 }
 
 #footer {
-    background-color: #000;
+    background-color: rgba(112, 155, 198, 0.40);
     background: url("../img/F9.jpg") center;
     background-repeat: no-repeat;
     color: #FFFFFF;
